@@ -15,5 +15,6 @@ public class JenkinsExampleApplication {
 		System.out.println("Hello jenkins !!!!");
 		System.out.println("Hello jenkins2 !!!!");
 		System.out.println("Hello jenkins3 !!!!");
+		System.out.println("Hello jenkins4 !!!!");
 	}
 }
